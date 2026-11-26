@@ -1,4 +1,4 @@
-# Personnnalités vaudoises
+# Personnalités vaudoises
 
 " A rich database about people notable for special artistical and cultural merits for the Canton of Vaud, “personnalités vaudoises”, including detailed biographical information and many links of various nature. This data stems from the database originally designed in 2006 to celebrate the Rumine Palace centennial." ([Swiss Heritage Data, *Personnalités vaudoises*](https://make.opendata.ch/wiki/data:glam_ch#personnalites_vaudoises))
 
