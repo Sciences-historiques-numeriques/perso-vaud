@@ -2,7 +2,7 @@
 /* The CSV actually is a TSV, so we set TSV mode. (Equivalent to `.mode "\t"`.) */
 .mode tabs
 /* Import TSV file into a new temporary table, creating column names from header. */
-.import "./source_data/20170907_persovd.csv" source_data
+.import "./source_data/20170907_persovd.tsv" source_data
 /* Create a table with English column names and specific datatypes. */
 create table "person" (
     pk_person integer primary key autoincrement,
